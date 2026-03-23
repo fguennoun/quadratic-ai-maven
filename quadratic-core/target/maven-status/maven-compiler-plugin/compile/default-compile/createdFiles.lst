@@ -1,8 +1,0 @@
-ai\quadratic\core\solver\QuadraticSolver.class
-ai\quadratic\core\model\Solution$OneDoubleRoot.class
-ai\quadratic\core\validator\InputValidator$ValidationResult.class
-ai\quadratic\core\validator\InputValidator.class
-ai\quadratic\core\model\ParsedEquation.class
-ai\quadratic\core\model\Solution.class
-ai\quadratic\core\model\Solution$TwoRealRoots.class
-ai\quadratic\core\model\Solution$ComplexRoots.class
