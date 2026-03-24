@@ -1,0 +1,17 @@
+ai\quadratic\api\dto\TrainingResponse.class
+ai\quadratic\api\service\NeuralService.class
+ai\quadratic\api\config\CorsConfig$1.class
+ai\quadratic\api\config\CorsConfig.class
+ai\quadratic\api\dto\NeuralResponse.class
+ai\quadratic\api\service\DialogueService$SessionEntry.class
+ai\quadratic\api\service\DialogueService.class
+ai\quadratic\api\dto\EquationRequest.class
+ai\quadratic\api\controller\NeuralController.class
+ai\quadratic\api\dto\NeuralStatusResponse.class
+ai\quadratic\api\controller\EquationController.class
+ai\quadratic\api\QuadraticApiApplication.class
+ai\quadratic\api\controller\DialogueController.class
+ai\quadratic\api\service\SolverService.class
+ai\quadratic\api\dto\SolveResponse.class
+ai\quadratic\api\dto\DialogueRequest.class
+ai\quadratic\api\dto\DialogueResponse.class

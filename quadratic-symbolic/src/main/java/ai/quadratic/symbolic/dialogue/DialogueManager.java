@@ -76,6 +76,11 @@ public class DialogueManager {
         return state == DialogueState.EXIT;
     }
 
+    /** Retourne l'état courant de la FSM (utile pour le backend REST) */
+    public DialogueState getCurrentState() {
+        return state;
+    }
+
     // ── Handlers d'état ──────────────────────────────────────────────────────
 
     private String handleGreeting(String input) {

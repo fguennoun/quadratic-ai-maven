@@ -1,0 +1,12 @@
+﻿server:
+  port: 8080
+spring:
+  application:
+    name: quadratic-api
+  jackson:
+    serialization:
+      indent-output: true
+logging:
+  level:
+    ai.quadratic: DEBUG
+    org.springframework.web: INFO

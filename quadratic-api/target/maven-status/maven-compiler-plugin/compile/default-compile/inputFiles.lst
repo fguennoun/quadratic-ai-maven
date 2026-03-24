@@ -1,0 +1,15 @@
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\dto\DialogueResponse.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\dto\SolveResponse.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\dto\TrainingResponse.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\dto\NeuralStatusResponse.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\controller\EquationController.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\dto\EquationRequest.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\QuadraticApiApplication.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\service\DialogueService.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\service\NeuralService.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\service\SolverService.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\dto\NeuralResponse.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\controller\DialogueController.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\dto\DialogueRequest.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\config\CorsConfig.java
+C:\workspace\quadratic-ai-maven\quadratic-api\src\main\java\ai\quadratic\api\controller\NeuralController.java
